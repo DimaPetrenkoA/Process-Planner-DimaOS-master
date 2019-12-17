@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\dimap\OneDrive\Рабочий стол\Process-Planner-DimaOS-master\MyPlanner\Source.cpp(147,9): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\dimap\OneDrive\Рабочий стол\Process-Planner-DimaOS-master\MyPlanner\Source.cpp(241,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  utils.cpp
+  Создание кода...
+  MyPlanner.vcxproj -> C:\Users\dimap\OneDrive\Рабочий стол\Process-Planner-DimaOS-master\x64\Debug\MyPlanner.exe
